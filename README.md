@@ -1,2 +1,1 @@
-This repository showcases my skills in SQL. 
-
+This repository showcases my skills in SQL.
