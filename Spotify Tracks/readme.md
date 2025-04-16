@@ -25,10 +25,9 @@ The raw dataset includes track-level information such as track name, artist, alb
 
 * [spotify_tracks.csv](https://github.com/Lrng09/SQL/blob/main/Spotify%20Tracks/spotify_tracks.csv): The raw dataset
 
-* [layoffs_cleaned](https://github.com/Lrng09/SQL/blob/main/Layoffs/layoffs_cleaned.csv): The cleaned dataset. This dataset is optimized for analysis and can be used for further exploration.
+* [Link Text](URL) The cleaned dataset. This dataset is optimized for analysis and can be used for further exploration.
 
 
-[Link Text](URL)
 
 
 
