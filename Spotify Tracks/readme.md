@@ -21,12 +21,9 @@ The raw dataset includes track-level information such as track name, artist, alb
 ## Files
 <ins>The following files are included in this repository:</ins>
 
-* [Link Text](URL)
+* [spotify tracks exploratory data analysis.sql](https://github.com/Lrng09/SQL/blob/main/Spotify%20Tracks/spotify%20tracks%20exploratory%20data%20analysis.sql): SQL script of Exploratory Data Analysis
 
 * [spotify_tracks.csv](https://github.com/Lrng09/SQL/blob/main/Spotify%20Tracks/spotify_tracks.csv): The raw dataset
-
-* [Link Text](URL) The cleaned dataset. This dataset is optimized for analysis and can be used for further exploration.
-
 
 
 
