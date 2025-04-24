@@ -21,9 +21,11 @@ The raw dataset includes track-level information such as track name, artist, alb
 ## Files
 <ins>The following files are included in this repository:</ins>
 
-* [spotify tracks exploratory data analysis.sql](https://github.com/Lrng09/SQL/blob/main/Spotify%20Tracks/spotify%20tracks%20exploratory%20data%20analysis.sql): SQL script of Exploratory Data Analysis
+* [spotify tracks exploratory data analysis.sql](https://github.com/Lrng09/SQL/blob/main/Spotify%20Tracks/spotify%20tracks%20exploratory%20data%20analysis.sql): SQL script of Exploratory Data Analysis.
 
-* [spotify_tracks.csv](https://github.com/Lrng09/SQL/blob/main/Spotify%20Tracks/spotify_tracks.csv): The raw dataset
+* [spotify_tracks.csv](https://github.com/Lrng09/SQL/blob/main/Spotify%20Tracks/spotify_tracks.csv): The raw dataset.
+
+* [cleaned spotify tracks (moneywiththevibes).csv](https://github.com/Lrng09/SQL/blob/main/Spotify%20Tracks/cleaned%20spotify%20tracks%20(moneywiththevibes).csv): This is the cleaned dataset prepared using Excel Power Query before being loaded into SQL for analysis.
 
 
 
